@@ -1,13 +1,20 @@
 # GDIM32 In Class Activities
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
 
-Hit enter TWICE to create a new line.
+# Week1
 
+## Activity 1
+ Do your work early, don't wait until the last minute to do your homework, so if you run into buges and issues, you still have time to reach for help.
 
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
+## Activity 2
+Q1. x = 10
+Q2. x = 2
+Q3. print "hello world" every frame in the console
+Q4. MonoBehavior
+Q5. When the program start, it print x = 10
+Q6. ("x = + x ) is Parameter
+Q7. It should not write as Transform.Translate(_direction);  
+Q8.
 
-
-Remove all placeholder text in order to get full credit for README file formatting.
+## Activity 3
+(Week1 class activity)[https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?tab=t.0]
