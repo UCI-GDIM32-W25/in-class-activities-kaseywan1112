@@ -1,12 +1,12 @@
 # GDIM32 In Class Activities
 
 
-# Week1
+## Week1
 
-## Activity 1
+### Activity 1
  Do your work early, don't wait until the last minute to do your homework, so if you run into buges and issues, you still have time to reach for help.
 
-## Activity 2
+### Activity 2
 Q1. x = 10
 
 Q2. x = 2
@@ -24,5 +24,5 @@ we need some object that translate, for transform to transform.
 
 Q8.change it to _playerTransform.Translate(_direction)
 
-## Activity 3
+### Activity 3
 [MG1 break-down & Week 1 Activity 3](https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?tab=t.0)
