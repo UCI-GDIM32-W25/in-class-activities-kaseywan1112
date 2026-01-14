@@ -26,3 +26,8 @@ Q8.change it to _playerTransform.Translate(_direction)
 
 ### Activity 3
 [MG1 break-down & Week 1 Activity 3](https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?tab=t.0)
+
+
+## Week2
+
+### Activity 1 
