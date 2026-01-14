@@ -31,3 +31,9 @@ Q8.change it to _playerTransform.Translate(_direction)
 ## Week2
 
 ### Activity 1 
+Week2 MG2 breakdown
+<img width="1049" height="632" alt="Screenshot 2026-01-13 174954" src="https://github.com/user-attachments/assets/61c6a70d-0643-41a8-8cc4-c5d10542d4a4" />
+
+
+
+
