@@ -43,17 +43,10 @@ MG2 in class:
 
 ## Week3
 
+### Activity 0-2
 Partner Name: Allen Gu
 
-### Activity 1 
-Finished in Unity
-
-### Activity 2
-Finished in Unity
-
-### Activity 3 
-Week 3 MG3 Breakdown
-
+### Activity 3
 1. A finite state machine will be useful in this project when we code about the animation of those pigeons. We can set different stages of the pigeon, like idle, fly, and fly away. When we use a finite state machine, the stages will be organized. 
 2. The inheritance will be used in the question mark and exclamation mark on the pigeons when the player gets closer, so no matter what kind of pigeon they will both be affected by the player because of inheritance; the pigeons are in the same category. 
 
