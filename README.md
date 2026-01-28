@@ -53,5 +53,16 @@ Partner Name: Allen Gu
 <img width="1186" height="676" alt="010d6e0acc4f9a4aac48ea4fd73c451" src="https://github.com/user-attachments/assets/03427994-a971-4f23-b849-29261e565fb8" />
 
 
+## Week 4
 
+### Activity 0
+Partner Name: Allen Gu
+
+### Activity 1
+1. I added like 7 locator object, and it only show the last locator object, like Locator(7), so it only have one locator when we start the game. 
+
+### Activity 2
+
+
+### Activity 3
 
