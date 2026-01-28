@@ -70,7 +70,7 @@ Partner Name: Allen Gu
 
 [MG4 in-classCommit](https://github.com/kaseywan1112/HW4/commit/f8bf7b7f39fc16e6e0f36ac2c523f02c845a5ef2)
 
-I forked on GitHub and created a Unity file that I can work on, and I added the pixel art of the birds and the pipe in the assets. I will do the coding part next. 
+I forked on GitHub and created a Unity file that I can work on, and I added the pixel art of the birds and the pipe in the assets. Added a player script, coding the player(bird). 
 
 
 
