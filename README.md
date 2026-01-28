@@ -63,6 +63,14 @@ Partner Name: Allen Gu
 
 ### Activity 2
 
+<img width="1635" height="585" alt="4721df6f85f31b478389f8a944f30d0" src="https://github.com/user-attachments/assets/882505d8-960c-4b92-8173-1441ea85da2a" />
+
 
 ### Activity 3
+
+
+
+
+
+
 
