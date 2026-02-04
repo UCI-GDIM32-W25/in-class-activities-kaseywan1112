@@ -73,5 +73,27 @@ Partner Name: Allen Gu
 I forked on GitHub and created a Unity file that I can work on, and I added the pixel art of the birds and the pipe in the assets. Added a player script, coding the player(bird). 
 
 
+## Week 5
 
+### Activity 1
 
+In my case, I might keep it the same, because these codes have been split into many separate ones, I think it will be to change and debug, or adding new stuff in the future. 
+
+### Activity 2
+
+In W5_Demo2, EnemyStats and ItemW5Demo2 are model, EnemyW5Demo2 and PlayerW5Demo2 are controller and DialogueBubble and InventoryUI are view.
+
+### Activity 3
+#### Scenario 1
+rhythm game:
+The beat change to code is to use the Inheritance with polymorphism, make a perfab and the singleton will be the start timing and the music. use a script object that check the player hit the beat for perfect, good great or bad, different type of beat will be the Finite State Machine, like hold beat or quick tap beat.
+#### Scenario 2
+Team shooter game:
+In the shooting game, a model will be the stats of the player or enemy, the bullet, the health, the score of the player, and for the view part, is the HUD, or the scoreboard, the controller will be the control of the character of the player or the game. 
+#### Scenario 3
+Stardew Valley:
+The Inheritance will be helpful for the plant systems, and the Finite state machine will used for the state of the plant will be, for example, like the plant growing, still a seed, or already have outcomes. State Machine will be helpful for the whole state of the plantes.
+### Activity 4
+Attendance: Yaokun Wan, Allen Ray Hu, Tiancheng Li.
+
+Proposal:[First Draft_in-class](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?tab=t.0)
