@@ -118,4 +118,5 @@ I think this one we can use not only in our final project, but most of the proje
 ### Acitivity 2
 
 Attendance: Yaokun Wan, Allen Ray Hu, Tiancheng Li.
+
 Proposal: [Fixed-Draft Proposal](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?tab=t.0#heading=h.y4j3q551ojs1)
