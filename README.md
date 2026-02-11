@@ -97,3 +97,25 @@ The Inheritance will be helpful for the plant systems, and the Finite state mach
 Attendance: Yaokun Wan, Allen Ray Hu, Tiancheng Li.
 
 Proposal:[First Draft_in-class](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?tab=t.0)
+
+
+## Week 6
+
+### Activity 1
+
+#### Gizmos
+
+In our final project, I think we can use Gizmo to show player's movement, how prop's moving, directions when there is a physical collision.
+
+#### Profiling
+
+Not only in our final project, but most of the work that I think we can use profiling to test our game if there is a lag or losing frames. And we can use profiling to test different ways for better function of game. Just like the class example, the circle rigid body runs better in the capybara game. 
+
+#### Breakpoints
+
+I think this one we can use not only in our final project, but most of the project in the furture. Breakpoitns can make you game kind of pause at the moment, so you can check how your code work or is you mechanic doing okay. 
+
+### Acitivity 2
+
+Attendance: Yaokun Wan, Allen Ray Hu, Tiancheng Li.
+Proposal: [Fixed-Draft Proposal](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?tab=t.0#heading=h.y4j3q551ojs1)
