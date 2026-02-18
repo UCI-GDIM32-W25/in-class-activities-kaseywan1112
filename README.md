@@ -120,3 +120,31 @@ I think this one we can use not only in our final project, but most of the proje
 Attendance: Yaokun Wan, Allen Ray Hu, Tiancheng Li.
 
 Proposal: [Fixed-Draft Proposal](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?tab=t.0#heading=h.y4j3q551ojs1)
+
+
+## Week 7 
+
+### Activity 1
+
+1. private Vector3 _raycastStart calculates the srarting point of the raycasting. It switches the object position to the world postion. This is a read-only property that is like a getter. It prevents the data stored in it from being modified.
+2. private Vector3 _raycastDir creates a vector pointing to the player character. It is also a property for the same reason. 
+3. private void UpdateState () updates the finite state machine by using if() statement and the HasLineOfSightToPlayer() method, which initializes the bool return value to false, projects raycast using Physics.Raycast(), and then checks if the player is in sight by checking the tag.
+4. Physics.SphereCast() is used to create a spherecast in HasCloseObstacles () method. This method is used to check if there are close obstacles in the area and return the bool value. If there is, _spherecastHitLocation is modified.
+5. OnDrawGizmos() draws the raycast and changes the color according to _hasLineOfSightToPlayer on gizmos; it also draws the area of the spherecast on Gizmos. This is important because it helps the developers see these elements in the scene.
+### Activity 2
+
+Attendance: Yaokun Wan, Allen Ray Hu, Tiancheng Li.
+
+### Activity 3
+
+![WeChat Image_20260217182344](https://github.com/user-attachments/assets/6b3fb07e-fb4a-430a-ab79-c454dacf9d83)
+
+### Activity 4
+
+[Assign Initial Tasks](https://docs.google.com/document/d/1rLxHEqQ7WVbr2whNHvd6AkNOCeKE-MZJDp9sczpUW1g/edit?tab=t.0)
+
+### Activity 5
+
+[Github Commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/3aac12c0b574d60fbef1b8b27f9d1b4083c639e8)
+
+We create the player controller movement, camara move with the player and the ground, we worked on the time system, item system and the task system a bit, we are working on different task now, I will looking for the art sources that we can use so we can build a office. 
