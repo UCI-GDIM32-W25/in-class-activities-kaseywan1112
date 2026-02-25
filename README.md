@@ -147,4 +147,28 @@ Attendance: Yaokun Wan, Allen Ray Hu, Tiancheng Li.
 
 [Github Commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/3aac12c0b574d60fbef1b8b27f9d1b4083c639e8)
 
-We create the player controller movement, camara move with the player and the ground, we worked on the time system, item system and the task system a bit, we are working on different task now, I will looking for the art sources that we can use so we can build a office. 
+We create the player controller movement, camera move with the player and the ground, we worked on the time system, item system, and the task system a bit, we are working on different tasks now, I will be looking for the art sources that we can use so we can build an office. 
+
+## Week 8 
+
+### Activity 1 
+
+The rendering pipeline is how everything drawed in to the screen. Go to setting Graphics to check if your Rendering Pipeline is working. We can use it to make dizzy and other effects by using the post-processing. I think we can use that effect in our game; the screen will have a  different effect based on the timer. 
+
+### Activity 2
+
+Attendance: Yaokun Wan, Allen Ray Hu, Tiancheng Li.
+
+### Activity 3
+
+Players can notice which gameobjects they can interact with, but players dont know how to interact with it, which key they should press to interact with. The Same Key E represent different function, sometimes create conflict in the game, feedbacks after players interaction was unclear, sometimes player cant even know what happened after they interact with gameobjects.
+
+### Activity 4
+
+I will work on the animation and the character of the boss and the co-worker. I will work on the idle and talk animation, so when the player speaks to the NPCs, they will do the speak animation. 
+
+### Activity 5 
+
+[Github Commits](https://github.com/TianchengLiRed/GDIM32-Final/commits/main/)
+
+I finished the animation and the character of the 2 NPCs we need, and also I added a script that the NPCs will always look or face the player.
