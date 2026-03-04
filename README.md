@@ -177,6 +177,7 @@ I finished the animation and the character of the 2 NPCs we need, and also I add
 
 ### Activity 1
 
+The Has Exit Time is a transition to occur after the state runs for a certain amount of time. The Transition Duration is how long the transition lasts. If we want the player to jump, we need our walk, run, and idle animations not to have exit time to jump. It's really hard to code and add more dialogue lines when we are using singel dialogue branch; the multiple dialogue branches have deeper branching trees of dialogue. By using the DialogueNode class, we can attach the dialogue to the dialogue system and make a branching dialogue. 
 
 ### Activity 2
 
@@ -188,8 +189,10 @@ When a player is playing our game, we found out that the player might have troub
 
 ### Activity 4
 
-So far, I finished all the office scenes, characters, and animation of characters. So, the process of our project is good so far. I will work on the task of the printer and the sound sources.
+So far, I finished all the office scenes, characters, and animation of characters. So, the process of our project is good so far. I will work on the task of the printer, maybe the animator of the printer, and the sound sources.
 
 ### Activity 5
 
+[Github Commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/08c0e1ffa522be19e9a51b08eaabff93f9efed6b)
 
+I did part of the task of printer, and I still need to do the paper perfab and the animation, to make the printer task work. I made the task end with the animation, so I have to work on the animation of the printer first.  
