@@ -172,3 +172,24 @@ I will work on the animation and the character of the boss and the co-worker. I 
 [Github Commits](https://github.com/TianchengLiRed/GDIM32-Final/commits/main/)
 
 I finished the animation and the character of the 2 NPCs we need, and also I added a script that the NPCs will always look or face the player.
+
+## Week 9 
+
+### Activity 1
+
+
+### Activity 2
+
+Attendance: Yaokun Wan, Allen Ray Hu, Tiancheng Li.
+
+### Activity 3
+
+When a player is playing our game, we found out that the player might have trouble finding the object to interact with. For example, we have a task that players have to drink coffee, but turns out that players have trouble finding which coffee they should interact with. We might need to guide the player on what they should do. Also, since our game is unfinished, we still need to test our tasks and dialogue system next week. 
+
+### Activity 4
+
+So far, I finished all the office scenes, characters, and animation of characters. So, the process of our project is good so far. I will work on the task of the printer and the sound sources.
+
+### Activity 5
+
+
