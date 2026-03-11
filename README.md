@@ -196,3 +196,26 @@ So far, I finished all the office scenes, characters, and animation of character
 [Github Commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/08c0e1ffa522be19e9a51b08eaabff93f9efed6b)
 
 I did part of the task of printer, and I still need to do the paper perfab and the animation, to make the printer task work. I made the task end with the animation, so I have to work on the animation of the printer first.  
+
+## Week 10
+
+### Activity 1
+
+Attendance: Yaokun Wan, Allen Ray Hu, Tiancheng Li.
+
+### Activity 2
+
+1. Interaction detection is inconsistent: some objects (like the phone) are hard to target.  
+2. Interaction pacing feels slow: fixed interaction duration can interrupt flow.  
+3. Task guidance can be confusing: dialogue, task flow, and phone events overlap.  
+The main playtest issue is not core functionality, but clarity and consistency of feedback. Prioritizing interaction should create the biggest immediate improvement. After that, refining task UI and audio cues will make pacing and guidance feel more natural.
+
+### Activity 3
+
+I believe that we are on the right track. So far, everything is going well, and we are close to where we expected to be at this point in the project. Most of the core systems and environment are already finished. Right now, the main things left are the tasks, the dialogue, and some smaller details like music. In terms of gameplay structure, the game is almost done. We estimate that it will take about one more day to finish the task system, and another day to add the music and text. After that, the game should be complete.
+
+### Activity 4
+
+[Github Commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/8c50cda8327e83bd037913193bddc812fc4f9788)
+
+I did the printer animation and door animation, put those animations to interactable, so the player can open the door and use the printer by pressing E. After that, I will work on the environment of the resetroom.
